@@ -21,7 +21,7 @@ Firebase account with Firestore and Authentication configured
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/admin-console.git
+git clone https://github.com/ItayDevops/React-Ecommerce.git
 cd admin-console
 Install dependencies:
 
