@@ -1,4 +1,5 @@
 Ecommerce App
+////////
 Overview
 This project is a full-stack admin console application built with React, Redux, and Firebase. It allows users to manage categories and products, view statistics, and access personalized dashboards. The application is designed with a clean and responsive UI, using Material-UI and Bootstrap.
 
